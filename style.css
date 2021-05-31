@@ -1,0 +1,37 @@
+h1{
+    font-family:monospace;
+    text-align: 
+    font-size:30px;
+    font-style:italic;
+
+}
+#menu-bar{
+      width:100%;
+      height:40px;
+      background-color:deepskyblue;
+      padding-top: 12px;
+    
+}
+a{
+    color: cadetblue;
+    font-family:Helvetica,fantasy;
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: 900px;
+    padding-left: 30px;
+    padding-right: 30px;
+    float:none;
+        
+}
+#menu-bar:hover{
+      color:floralwhite;
+}
+a"#"{
+    font-family: Helvetica,fantasy;
+    font-size:18px;
+    color:darkturquoise;
+    
+}
+a"#":hover{
+    color:antiquewhite;
+}
